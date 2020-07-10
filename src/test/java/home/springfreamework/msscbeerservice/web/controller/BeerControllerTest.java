@@ -1,4 +1,4 @@
-package home.springfreamework.msscbeerservice.web.cntroller;
+package home.springfreamework.msscbeerservice.web.controller;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import home.springfreamework.msscbeerservice.web.model.BeerDto;
